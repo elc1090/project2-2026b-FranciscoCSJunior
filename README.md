@@ -10,6 +10,7 @@ https://project2-2026b-francisco-cs-junior.vercel.app
 
 ## Desenvolvedor(a)
 Nome: Francisco das Chagas Sousa Júnior
+
 Curso: Ciência da Computação
 
 

@@ -6,8 +6,7 @@
 
 ## Acesso
 
-Substitua este texto pela URL para acesso ao seu app publicado. Adicione a URL também na seção "About" do seu repositório no GitHub.
-
+https://project2-2026b-francisco-cs-junior.vercel.app
 
 ## Desenvolvedor(a)
 Nome: Francisco das Chagas Sousa Júnior
@@ -31,7 +30,7 @@ Lucas Medeiros Figueiredo dos Santos
 Em um primeiro momento, eu tive que decidir quais frameworks/linguagens usar. Eu vi algumas das opções que a professora passou e gostaria de fazer com alguma tecnologia nova, para conhecer novas tecnologias e ter mais experiências. Defini que usaria React para o frontend, principalmente, e Laravel para o backend. Defini que usaria o Vercel para deploy do Frontend e o Render para deploy do backend. Eu queria utilizar o MySQL, mas conversando com a IA,  vi que seria bem mais difícil, pois o Render tem um compatibildade mais fácil com o PostgreSQL, então acabei migrando para lá.
 Em seguida, foi o momento de instalar os frameworks, instalar o PostgreSQL e tentar entender junto com a IA como os projetos dessas aplicações funcionavam, visto que tem muitos arquivos. Além disso, essa linguagens/frameworks eram novas pra mim, então fui me direcionando muito com ajuda da IA. Fiz a conexão do projeto Laravel com o banco e setei os dados: um ponto de coleta tem os atributos nome, endereço, coordenadas, horário de funcionamento e uma lista de materiais que ele aceita. Depois criei as rotas da API, consultar é permitido para todos os usuários, mas criar, editar ou remover é apenas para um usuário que tem login.
 Depois, fiz o frontend que mostrava apenas os pontos da API desenhava eles no mapa que é fornecido pelo Leaflet. Depois adicionei o login, pois assumi que não é qualquer usuário que acessasse o site que poderia criar/editar/remover pontos de coleta, em seguida fiz o formulário com os campos pra criar um novo ponto, o botão pra editar um ponto e o botão pra remover um ponto.
-Depois subi o código no GitHub para poder fazer o deploy também.
+Depois subi o código no GitHub para poder fazer o deploy também. Em seguida, me conectei no Render, fiz a criação do banco do PostgreSQL lá e o deploy do backend. Depois, me conectei ao Vercel e fiz a mesma coisa com o Frontend, setando as variáveis do ambiente para eles se conectarem
 
 ### Trechos de código
 
